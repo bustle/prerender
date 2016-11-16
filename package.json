@@ -8,10 +8,10 @@
     "url": "https://github.com/collectiveip/prerender"
   },
   "dependencies": {
-    "phantomjs": "^1.9.15",
-    "phantom": "^0.7.2",
-    "lodash": "~3.1.0",
-    "cache-manager": "^0.16.0",
-    "aws-sdk": "~2.1.8"
+    "phantomjs": "^2.1.7",
+    "phantom": "^3.0.3",
+    "lodash": "~4.17.2",
+    "cache-manager": "^2.2.0",
+    "aws-sdk": "~2.7.2"
   }
 }
